@@ -1,0 +1,5 @@
+https://opengameart.org/content/toon-characters-1
+https://github.com/ourcade/infinite-jumper-template-phaser3
+https://phaser.io/
+
+También puedes seguir el tutorial en pdf que está dentro de este proyecto
